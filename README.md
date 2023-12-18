@@ -1,8 +1,8 @@
 Healthify: Empowering a Healthy Lifestyle for Sunita Sharma
-About
+### About
 Healthify is a specialized web application tailored to support Sunita Sharma, a woman over 65 years old, in her journey toward a healthier and happier life.
 
-Key Features
+#### Key Features
 Tailored Diet Plans: Personalized diet recommendations curated for Sunita's age and health needs.
 Yoga and Exercise Suggestions: Customized yoga routines and exercise plans suitable for seniors.
 BMI Calculator: Helps in monitoring and understanding Sunita's body mass index.
@@ -15,8 +15,8 @@ Increased Mobility: Encourage and facilitate movement and flexibility with tailo
 Health Awareness: Educate Sunita about healthy habits and proactive health management.
 Social Connection: Foster a sense of community and support for Sunita's emotional well-being.
 Medication Adherence: Ensure consistent adherence to medication schedules for better health outcomes.
-Deployment
+### Deployment
 Healthify Live Demo ---- > https://kratain-ass.onrender.com/
 
-Company
+### Company
 Kratin Software Solutions Pvt Ltd
