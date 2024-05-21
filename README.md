@@ -18,5 +18,4 @@ Medication Adherence: Ensure consistent adherence to medication schedules for be
 ### Deployment
 Healthify Live Demo ---- > https://kratain-ass.onrender.com/
 
-### Company
-Kratin Software Solutions Pvt Ltd
+
